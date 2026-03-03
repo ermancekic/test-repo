@@ -1,0 +1,8 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Test repository",
+  "dependencies": {
+    "scatool-test-project": "github:ermancekic/scatool-test-project#ef5a4c1deb968ce7075dad2203d67cff8d59080e"
+  }
+}
