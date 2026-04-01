@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Test repository",
   "dependencies": {
-    "scatool-test-project2": "^1.0.4"
+    "scatool-test-project2": "^1.0.5"
   }
 }
